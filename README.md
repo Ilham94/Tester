@@ -1,24 +1,10 @@
-# Emilia
-Telegram modular Python bot berjalan di python3 dengan database sqlalchemy.
-
-Based on [marie bot](https://github.com/PaulSonOfLars/tgbot)
-
-# [Read english README](https://github.com/AyraHikari/EmiliaHikari/blob/master/README.en.md)
-
-**If you want to translate this bot**, [please go here](https://github.com/AyraHikari/EmiliaHikari/blob/master/TRANSLATION.md)
-
-Dapat ditemukan di telegram sebagai [Emilia](https://t.me/EmiliaHikariBot).
-
+If you want to translate this bot**, [please go here](https://github.com/AyraHikari/EmiliaHikari/blob/master/TRANSLATION.md)
 
 Awalnya bot manajemen grup sederhana dengan beberapa fitur admin, telah berevolusi, menjadi sangat modular dan
 
 Marie dan saya sedang memoderasi [support group](https://t.me/TeamNusantaraDevs), di mana Anda dapat meminta bantuan untuk mengaturnya
 bot, temukan / minta fitur baru, laporkan bug, dan tetap di dalam pengulangan setiap kali pembaruan baru tersedia. Tentu saja
 Saya juga akan membantu ketika skema database berubah, dan beberapa kolom tabel perlu dimodifikasi/ditambahkan. Catatan untuk pengelola bahwa semua perubahan skema akan ditemukan dalam pesan commit, dan tanggung jawab mereka untuk membaca setiap commit baru.
-
-Bergabunglah dengan [news channel](https://t.me/AyraBotNews) jika Anda hanya ingin tetap di loop tentang fitur-fitur baru atau pengumuman.
-
-Kalau tidak, [temukan aku di telegram](https://t.me/AyraHikari)! (Simpan semua pertanyaan dukungan dalam obrolan dukungan, tempat lebih banyak orang dapat membantu Anda.)
 
 Catatan untuk pengelola bahwa semua perubahan skema akan ditemukan dalam pesan komit, dan tanggung jawabnya untuk membaca komitmen baru.
 
@@ -175,11 +161,3 @@ perlu untuk memigrasikannya dalam db
 
 Fungsi `__stats __()` adalah untuk mengambil statistik modul, misalnya jumlah pengguna, jumlah obrolan. Ini diakses
 melalui perintah `/stats`, yang hanya tersedia untuk pemilik bot.
-
-
-## Special Credits
-
-Thanks to this user:
-- [Paul Larsen](https://github.com/PaulSonOfLars) - marie creator, inspiration to do many things
-- [Yan Gorobtsov](https://github.com/MrYacha) - for welcome security base and connection base and maybe others
-- [アキト ミズキト](https://github.com/peaktogoo) - for reworked federation module
