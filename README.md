@@ -1,4 +1,4 @@
-                   CUMA TEST
+                CUMA TEST
 
 Awalnya bot manajemen grup sederhana dengan beberapa fitur admin, telah berevolusi, menjadi sangat modular dan
 
