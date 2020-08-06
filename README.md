@@ -1,4 +1,4 @@
-If you want to translate this bot**, [please go here](https://github.com/AyraHikari/EmiliaHikari/blob/master/TRANSLATION.md)
+                   CUMA TEST
 
 Awalnya bot manajemen grup sederhana dengan beberapa fitur admin, telah berevolusi, menjadi sangat modular dan
 
